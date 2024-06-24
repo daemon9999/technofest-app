@@ -1,6 +1,6 @@
 import { Link } from "react-router-dom";
 import { GrTechnology } from "react-icons/gr";
-import { RiLogoutCircleRFill, RiLogoutCircleRLine, RiTeamFill } from "react-icons/ri";
+import {  RiLogoutCircleRLine } from "react-icons/ri";
 import { BsFillInfoCircleFill } from "react-icons/bs";
 import { MdOutlineConnectWithoutContact } from "react-icons/md";
 import { Menu, MenuButton, MenuItem, MenuItems } from "@headlessui/react";
